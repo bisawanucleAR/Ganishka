@@ -1,0 +1,10 @@
+Cliente: Iniciais da primeira geração
+Chatbot: Squirtle- Tipo agua, Charmander- tipo fogo, Bulbasaur- tipo grama
+Cliente: Iniciais da segunda geração 
+Chatbot: Totodile- Tipo agua, Cyndaquil- tipo fogo, Chicorita- tipo grama
+Cliente: Iniciais da terceira geração 
+Chatbot: Mudkip- Tipo agua, Torchic- tipo fogo, Trecko- tipo grama
+
+
+Cliente: Iniciais da primeira geracao
+Chatbot: Squirtle, charmander e bulbasaur
