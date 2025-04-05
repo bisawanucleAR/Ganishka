@@ -1,0 +1,80 @@
+*  {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Segoe UI', sans-serif;
+    background-color: rgba(222, 243, 243, 0.733);
+    color: black
+}
+.site{
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.cabecalho{
+    background-color: rgba(83, 99, 99, 0.5);
+    color: white;
+    padding: 30px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px;
+    text-align: center;
+}
+.navegacao{
+    background-color: rgba(83, 99, 99, 0.5);
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px;
+    text-align: center;
+}
+
+.menuNavegacao{
+    color:aliceblue; 
+    margin: 0 15px;
+    text-decoration:nome ;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+.menuNavegacao a:hover{
+    color:black; 
+}
+
+.conteudoPrincipal{
+    display: flex;
+    gap: 20px;
+    flex-wrap:wrap ;
+}
+
+.colunaEsquerda{
+    flex:2;
+    display:flex ;
+    flex-direction: column;
+    gap:20px ;
+}
+
+.colunaDireita{
+    flex:1;
+}
+.secao, .artigo, .barraLateral{
+    background-color: rgba(83, 99, 99, 0.5);
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px;
+}
+
+.barraLateral ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+.barraLateral li{
+    margin-bottom: 10px;
+}
+.barraLateral a {
+    text-decoration:none ;
+    color: bisque;
+    transition:color 0.3s ease ;
+}
+.rodape{}
